@@ -1,0 +1,12 @@
+
+node_modules/
+.env
+.env.*
+!.env.example
+masar.sqlite
+masar.sqlite-*
+*.sqlite
+*.sqlite3
+*.db
+public/uploads/
+.DS_Store
